@@ -1,4 +1,4 @@
-本專案為 [SKSG_TChinese](https://github.com/tents89/SKSG_TChinese) 的 fork，更改其中翻譯文本及字型檔
+本專案為 [SKSG_TChinese](https://github.com/tents89/SKSG_TChinese) 的 fork，更改其中翻譯文本及字型檔。文本為 [故人千寻 - 渣渣机翻汉化补丁v2.0](https://www.bilibili.com/video/BV1EKH1zaEsg/) 經繁化潤飾而來
 
 # 絲綢之歌-繁體中文化一鍵處理工具
 

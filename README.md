@@ -1,3 +1,5 @@
+本專案為 [SKSG_TChinese](https://github.com/tents89/SKSG_TChinese) 的 fork，更改其中翻譯文本及字型檔
+
 # 絲綢之歌-繁體中文化一鍵處理工具
 
 這是一個專為《Hollow Knight: Silksong》設計的全自動繁體中文化工具。只需簡單操作，即可將遊戲內的文本、字型替換為繁體中文版本。

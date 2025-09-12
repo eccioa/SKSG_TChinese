@@ -456,8 +456,8 @@ def process_bundle(env):
         process_embedded_texture(tex_data)
     for font_data in fonts_to_process:
         process_font(font_data.object_reader)
-    for mat_data in materials_to_process:
-        process_material(mat_data.object_reader)
+    # for mat_data in materials_to_process:
+    #     process_material(mat_data.object_reader)
 
 def process_text_assets(env):
     text_target_assets = {"ZH_Achievements", "ZH_AutoSaveNames", "ZH_Belltown", "ZH_Bonebottom", "ZH_Caravan", "ZH_City", "ZH_Coral", "ZH_Crawl", "ZH_Credits List", "ZH_Deprecated", "ZH_Dust", "ZH_Enclave", "ZH_Error", "ZH_Fast Travel", "ZH_Forge", "ZH_General", "ZH_Greymoor", "ZH_Inspect", "ZH_Journal", "ZH_Lore", "ZH_MainMenu", "ZH_Map Zones", "ZH_Peak", "ZH_Pilgrims", "ZH_Prompts", "ZH_Quests", "ZH_Shellwood", "ZH_Shop", "ZH_Song", "ZH_Titles", "ZH_Tools", "ZH_UI", "ZH_Under", "ZH_Wanderers", "ZH_Weave", "ZH_Wilds"}

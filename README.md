@@ -6,7 +6,7 @@
 
 遊戲更新後請嘗試重新執行一次此工具。
 
-![image](https://github.com/tents89/SKSO_TChinese/blob/main/Tool.png)
+![image](https://github.com/eccioa/SKSG_TChinese/blob/main/Tool.png)
 > **本工具的核心邏輯與程式碼均由 AI 構建，並使用 Python 與 UnityPy 技術實現。**
 
 ---
@@ -15,7 +15,7 @@
 
 ### 下載
 
-請前往 **[Releases 頁面](https://github.com/tents89/SKSO_TChinese/releases)** 下載對應你作業系統的最新版本壓縮包。
+請前往 **[Releases 頁面](https://github.com/eccioa/SKSO_TChinese/releases)** 下載對應你作業系統的最新版本壓縮包。
 
 ### 步驟
 

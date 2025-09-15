@@ -15,7 +15,7 @@
 
 ### 下載
 
-請前往 **[Releases 頁面](https://github.com/eccioa/SKSO_TChinese/releases)** 下載對應你作業系統的最新版本壓縮包。
+請前往 **[Releases 頁面](https://github.com/eccioa/SKSG_TChinese/releases)** 下載對應你作業系統的最新版本壓縮包。
 
 ### 步驟
 
